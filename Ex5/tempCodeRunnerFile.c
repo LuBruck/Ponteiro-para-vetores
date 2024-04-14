@@ -1,0 +1,1 @@
+media/=qnt_notas;
